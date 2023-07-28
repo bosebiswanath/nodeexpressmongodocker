@@ -29,7 +29,7 @@ PORT=3000
 MONGODB_URI=YOUR MONGODB URI
 DB_NAME=DATABASE NAME OF YOUR CHOICE
 DB_USER=DATABASE USER
-DB_PASS=DATABASE USER PASSWORD 
+DB_PASS=DATABASE USER PASSWORD
 ```
 
 Step 4: Start the API by
@@ -37,10 +37,6 @@ Step 4: Start the API by
 ```bash
 npm start
 ```
-
-## Author
-
-- [**Truly Mittal**](https://trulymittal.com)
 
 ## License
 
